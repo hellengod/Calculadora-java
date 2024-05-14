@@ -31,7 +31,7 @@ git clone https://github.com/hellengod/Calculadora-java.git
 
 5. Após cada operação, o resultado será exibido no console.
 
-##Estrutura do projeto
+## Estrutura do projeto
 
 - src/main/java/br/hellen/calculadora/Calculadora.java: Classe principal que contém o método main para executar a calculadora.
 - src/main/java/br/hellen/calculadora/Numero.java: Classe que representa um número.
