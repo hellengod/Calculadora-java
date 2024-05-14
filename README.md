@@ -21,7 +21,7 @@ Este é um projeto de calculadora simples em Java, que permite realizar operaç�
 
 ```bash
 git clone https://github.com/hellengod/Calculadora-java.git
-
+exit
 2. Abra o projeto em sua IDE Java preferida.
 
 Execute a classe Calculadora.java.
