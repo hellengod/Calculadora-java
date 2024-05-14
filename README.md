@@ -21,11 +21,19 @@ Este é um projeto de calculadora simples em Java, que permite realizar operaç�
 
 ```bash
 git clone https://github.com/hellengod/Calculadora-java.git
-exit
+```
+
 2. Abra o projeto em sua IDE Java preferida.
 
-Execute a classe Calculadora.java.
+3. Execute a classe Calculadora.java.
 
-Siga as instruções no console para inserir os números e escolher a operação desejada.
+4. Siga as instruções no console para inserir os números e escolher a operação desejada.
 
-Após cada operação, o resultado será exibido no console.
+5. Após cada operação, o resultado será exibido no console.
+
+##Estrutura do projeto
+
+- src/main/java/br/hellen/calculadora/Calculadora.java: Classe principal que contém o método main para executar a calculadora.
+- src/main/java/br/hellen/calculadora/Numero.java: Classe que representa um número.
+- src/main/java/br/hellen/calculadora/Operacoes.java: Classe que contém os métodos para realizar as operações matemáticas.
+
